@@ -1,3 +1,6 @@
 hello world
 
 newfile.txt
+
+now we're going to make some changes here and see if this changes
+anything in a new commit
