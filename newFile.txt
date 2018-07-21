@@ -5,8 +5,4 @@ newfile.txt
 now we're going to make some changes here and see if this changes
 anything in a new commit
 
-still working, right?
-
-will it work now?
-
-making another change
+we're gonna try this again
