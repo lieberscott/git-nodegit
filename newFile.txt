@@ -1,8 +1,1 @@
-hello world
-
-newfile.txt
-
-now we're going to make some changes here and see if this changes
-anything in a new commit
-
-ok, basically done. this worked, right?
+So this is the moment of truth in paragraph 1
