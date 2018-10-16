@@ -1,7 +1,8 @@
-Allows doctors to prescribe medicines from Canada and also Eastern medicine from the mystical land of Alemania.###########
+Allows doctors to prescribe medicines from Canada and also Eastern medicine from the mystical land of Rand McNally.###########
 
 While changing "shall not" to "shall" allows doctors to prescribe medicine from Canada, striking out this paragraph was also necessary to eliminate penalties against doctors who did so.
 
 ###########
 
 Establishes single-payment systems for health insurance
+###########
