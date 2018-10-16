@@ -5,4 +5,4 @@ While changing "shall not" to "shall" allows doctors to prescribe medicine from 
 ###########,
 
 Establishes single-payment systems for health insurance
-###########,###########
+###########
