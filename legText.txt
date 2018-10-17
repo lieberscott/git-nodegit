@@ -1,6 +1,6 @@
 ########### SECTION 1
 
-Section 18 of Chapter 23 of the General Laws is hereby amended by striking out in paragraph 2 the following words "shall not" and inserting in place thereof the following: "shall".
+Section 18 of Chapter 23 of the General Laws is hereby amended by striking out in paragraph 2 the following words "shall not" and inserting in place thereof the following: "shall". And adding this here
 
 ########### SECTION 2
 
@@ -8,7 +8,7 @@ Section 18 of Chapter 23 of the General Laws is hereby further amended by striki
 
 And I'm adding a second thing here.
 
-And another second thing here.
+And deleting something here.
 
 ########### SECTION 3
 
