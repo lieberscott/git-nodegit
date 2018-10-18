@@ -1,12 +1,11 @@
-
-
--$3.4 billion
-
 ########### SECTION 1
 
-$0
+-$3.4 billion
 
 ########### SECTION 2
 
--$3.4 billion
+$0
+
 ########### SECTION 3
+
+-$3.4 billion
