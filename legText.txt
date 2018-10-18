@@ -1,15 +1,9 @@
-########### SECTION 1/n/n
-
-Section 18 of Chapter 23 of the General Laws is hereby amended by striking out in paragraph 2 the following words "shall not" and inserting in place thereof the following: "shall".########### SECTION 2/n/n
-
-Section 18 of Chapter 23 of the General Laws is hereby further amended by striking out paragraph 3.
+########### SECTION 1Section 18 of Chapter 23 of the General Laws is hereby amended by striking out in paragraph 2 the following words "shall not" and inserting in place thereof the following: "shall".########### SECTION 2Section 18 of Chapter 23 of the General Laws is hereby further amended by striking out paragraph 3.
 
 And I'm adding a second thing here.
 
 And deleting something here.
 
-########### SECTION 3/n/n
-
-Section 21 of Chapter 23 of the General Laws is hereby amended by replacing in every instance the phrase "health maintenance organization" with the following: "single-payment organizations."
+########### SECTION 3Section 21 of Chapter 23 of the General Laws is hereby amended by replacing in every instance the phrase "health maintenance organization" with the following: "single-payment organizations."
 
 And I'm adding a third thing here.
